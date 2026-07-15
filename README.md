@@ -1,6 +1,4 @@
-# CodeAlpha Sentiment Analysis — COVID-19 Vaccine Tweets
-
-**Data Analytics Internship Project — CodeAlpha**
+# Sentiment Analysis: Public Perception of COVID-19 Vaccines
 
 ## 📌 Project Overview
 This project analyzes public sentiment toward COVID-19 vaccines using a dataset of 193,343 tweets. Text data was cleaned and classified as Positive, Negative, or Neutral using VADER (a lexicon-based sentiment analysis tool), then visualized to identify overall sentiment patterns and trends over time.
@@ -23,7 +21,7 @@ This project analyzes public sentiment toward COVID-19 vaccines using a dataset 
 - matplotlib & seaborn — data visualization
 
 ## 📁 Files
-- `CodeAlpha_Sentiment_Analysis.ipynb` — full notebook with code, charts, and written analysis
+- `Sentiment_Analysis_Vaccine_Tweets.ipynb` — full notebook with code, charts, and written analysis
 
 ## 📈 Visualizations Included
 - Sentiment distribution (bar chart)
@@ -31,4 +29,4 @@ This project analyzes public sentiment toward COVID-19 vaccines using a dataset 
 
 ## 👤 Author
 Obumnaeme-Okwukweka
-[GitHub](https://github.com/obumnaeme-okwukweka) | Data Analyst Intern, CodeAlpha
+[GitHub](https://github.com/obumnaeme-okwukweka)
